@@ -1,0 +1,44 @@
+[
+  {
+    "id": "nda",
+    "title": "Non-Disclosure Agreement (NDA)",
+    "description": "Protect confidential information shared between parties.",
+    "category": "Business Contracts",
+    "content": "NON-DISCLOSURE AGREEMENT (NDA)\n\nThis Agreement is made on [Date] between [Party A] and [Party B].\n\n1. Purpose: The parties agree to protect confidential information disclosed during discussions and negotiations.\n2. Confidential Information: Includes business, financial, and technical data.\n3. Obligations: Receiving party shall not disclose or use confidential information for any purpose other than agreed.\n4. Term: This Agreement remains effective for [X] years from the date signed.\n5. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Party A]\n[Party B]"
+  },
+  {
+    "id": "employment",
+    "title": "Employment Agreement",
+    "description": "Standard agreement between an employer and employee.",
+    "category": "HR Agreements",
+    "content": "EMPLOYMENT AGREEMENT\n\nThis Agreement is made on [Date] between [Employer] and [Employee].\n\n1. Position: Employee is hired as [Job Title].\n2. Compensation: Employee will be paid [Salary/Compensation] monthly.\n3. Duties: Employee shall perform duties as required by the Employer.\n4. Confidentiality: Employee shall maintain confidentiality of company data.\n5. Termination: Either party may terminate with [Notice Period].\n6. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Employer]\n[Employee]"
+  },
+  {
+    "id": "service",
+    "title": "Service Agreement",
+    "description": "Agreement for providing services between two parties.",
+    "category": "Business Contracts",
+    "content": "SERVICE AGREEMENT\n\nThis Agreement is made on [Date] between [Service Provider] and [Client].\n\n1. Services: Provider agrees to deliver [Services Description].\n2. Fees: Client will pay Provider [Amount] for services rendered.\n3. Confidentiality: Both parties agree to keep business information confidential.\n4. Termination: Either party may terminate with [Notice Period].\n5. Liability: Provider shall not be liable for indirect damages.\n6. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Service Provider]\n[Client]"
+  },
+  {
+    "id": "consulting",
+    "title": "Consulting Agreement",
+    "description": "Agreement for providing professional consulting services.",
+    "category": "Business Contracts",
+    "content": "CONSULTING AGREEMENT\n\nThis Agreement is entered into on [Date] between [Consultant] and [Client].\n\n1. Services: Consultant agrees to provide consulting services as described in Schedule A.\n2. Compensation: Client shall pay Consultant [Rate/Fees] for services.\n3. Confidentiality: Consultant shall keep all client information confidential.\n4. Termination: Either party may terminate with [Notice Period].\n5. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Consultant]\n[Client]"
+  },
+  {
+    "id": "freelance",
+    "title": "Freelance Agreement",
+    "description": "Agreement between a freelancer and a client.",
+    "category": "Freelance & Work Contracts",
+    "content": "FREELANCE AGREEMENT\n\nThis Agreement is made on [Date] between [Freelancer] and [Client].\n\n1. Scope of Work: Freelancer agrees to complete the tasks outlined in Schedule A.\n2. Payment: Client shall pay Freelancer [Amount] upon completion or per milestone.\n3. Intellectual Property: Rights to work produced transfer to Client upon full payment.\n4. Confidentiality: Freelancer agrees not to disclose Client’s confidential information.\n5. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Freelancer]\n[Client]"
+  },
+  {
+    "id": "internship",
+    "title": "Internship Agreement",
+    "description": "Agreement between an organization and an intern.",
+    "category": "HR Agreements",
+    "content": "INTERNSHIP AGREEMENT\n\nThis Agreement is made on [Date] between [Company] and [Intern].\n\n1. Position: Intern will work as [Role].\n2. Duration: Internship shall last from [Start Date] to [End Date].\n3. Compensation: Intern will receive [Stipend/Unpaid].\n4. Duties: Intern agrees to perform assigned responsibilities under supervision.\n5. Confidentiality: Intern agrees not to disclose company confidential data.\n6. Governing Law: [Insert Jurisdiction].\n\nSigned,\n[Company]\n[Intern]"
+  }
+]

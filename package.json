@@ -1,0 +1,35 @@
+{
+  "name": "genai-contract-assistant-backend",
+  "version": "1.0.0",
+  "description": "Backend server for GenAI Contract Clause Generator & Risk Annotator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharshenikamalanathan/genai-contract-assistant.git"
+  },
+  "keywords": [
+    "express",
+    "fastapi",
+    "ai",
+    "contracts",
+    "risk-analysis"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharshenikamalanathan/genai-contract-assistant/issues"
+  },
+  "homepage": "https://github.com/Dharshenikamalanathan/genai-contract-assistant#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
